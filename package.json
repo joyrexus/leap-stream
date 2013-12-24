@@ -1,0 +1,17 @@
+{
+  "name": "leap-stream",
+  "version": "0.0.1",
+  "description": "Send the Leap's websocket stream to stdout",
+  "bin": {"leap-stream": "./index.js"},
+  "main": "index.js",
+  "dependencies": {
+    "websocket-stream": ">=0.3.3"
+  },
+  "keywords": [ "leap", "stream" ],
+  "author": "J. Voigt",
+  "license": "BSD-2-Clause",
+  "repository": { 
+    "type" : "git", 
+    "url" : "http://github.com/joyrexus/leap-stream.git"
+  }
+}
