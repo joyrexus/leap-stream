@@ -7,7 +7,7 @@
   "dependencies": {
     "websocket-stream": ">=0.3.3"
   },
-  "keywords": [ "leap", "stream" ],
+  "keywords": [ "gesture", "leap", "stream", "ldjson" ],
   "author": "J. Voigt",
   "license": "BSD-2-Clause",
   "repository": { 

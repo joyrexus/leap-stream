@@ -11,3 +11,8 @@ To redirect the Leap's websocket stream to a file:
     leap-stream > sample.ldj
 
 Use `CTRL-C` (`control` key + `c` key) to terminate the redirect.
+
+
+## Install
+
+Install with `npm install -g leap-stream`.
